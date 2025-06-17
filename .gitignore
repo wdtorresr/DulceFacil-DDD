@@ -1,0 +1,32 @@
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Directorios de compilación
+bin/
+obj/
+out/
+TestResults/
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Archivos temporales y de caché
+*.cache
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Publicaciones
+publish/
+*.dbmdl
+
+# Sistema operativo
+*.DS_Store
+Thumbs.db
+                                                                                                                                                                                                                                                                                                                                      
